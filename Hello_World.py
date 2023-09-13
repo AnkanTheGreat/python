@@ -1,0 +1,5 @@
+print("Hello World")
+print(1+2)
+print(3*5)
+print()
+print("The end!", "or is it?", "keep practicing!")
